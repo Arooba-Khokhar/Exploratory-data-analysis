@@ -39,7 +39,7 @@ This shows that it is multivariant data analysis. So, I compared the each compon
 
 
 
-<p><img width="60%" src="scatter.png" /></p>
+<p><img width="60%" src="scatter.PNG" /></p>
 
 
 
@@ -48,7 +48,7 @@ This shows that it is multivariant data analysis. So, I compared the each compon
 This shows that Outlier of peak angular velocity using distribution
 
 
-<p ><img width="60%" src="angular.ong" /></p>
+<p ><img width="60%" src="angular.PNG" /></p>
 
 
 ##  Generating visualization #3 ( Day Trend )
