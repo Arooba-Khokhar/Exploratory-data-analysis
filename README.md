@@ -7,3 +7,53 @@ Direction of turns left/right, Duration of turns in sec, Angular velocity of tur
 The individual tabs in the excel spreadsheet correspond to individual days.
 
 In an ideal world we would like you to provide an exploratory data analysis including but not limited to visualization, data quality checks, descriptive statistics and potential future analysis ideas (if you had e.g. 30 subjects).
+
+
+The Tasks
+
+1.       Please familiarize yourself with the data set and take notes of any peculiarities you discover throughout working on the dataset.
+
+2.       The Loading module loads the data and performs preprocessing on it
+
+3.       Implement transformation logic using a programming language and libraries of your choice (e.g. pandas, spark, SQL, etc. is acceptable).
+
+4.       Running a python script in a Docker Conatiner
+
+5.       Export the tidy dataset in CSV format
+
+
+
+## Generating visualization #1 ( histogram )
+
+This shows that univariant data analysis of outlier
+
+
+
+<p ><img width="60%" src="visual.png" /></p>
+
+
+
+##  Generating visualization #2 ( scatter matrix )
+
+This shows that it is multivariant data analysis. So, I compared the each component among them.
+
+
+
+<p><img width="60%" src="scatter.png" /></p>
+
+
+
+##  Generating visualization #3 ( Box plot )
+
+This shows that Outlier of peak angular velocity using distribution
+
+
+<p ><img width="60%" src="angular.ong" /></p>
+
+
+##  Generating visualization #3 ( Day Trend )
+
+This shows that Outlier of peak angular velocity using distribution
+
+
+<p ><img width="60%" src="day.png" /></p>
